@@ -1,0 +1,20 @@
+{
+    "name":"mereo-desenvolvimento/php-mereo",
+    "description": "Desenvolvimento pacote php",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name":"Emmanuel Rodrigues",
+            "email": "emmanuel.silva@mereo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MereoDesenvolvimento\\PHPMereo\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
