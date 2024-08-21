@@ -1,11 +1,13 @@
 # Calculator Class
 
-The `Calculator` class is a simple PHP class that provides basic arithmetic operations: addition, subtraction, and multiplication.
+The `Mereo` class is a simple PHP class that provides basic arithmetic operations: addition, subtraction, and multiplication.
 
 ## Installation
 
-You can include the `Calculator` class in your PHP project by simply copying the `Calculator.php` file into your project directory.
-
+You can include the `Mereo` class in your PHP project by simply running the command below:
+```shell
+composer require mereo-desenvolvimento/php-mereo
+```
 ## Usage
 
 To use the `Calculator` class, you need to instantiate the class and then call its methods to perform arithmetic operations.
